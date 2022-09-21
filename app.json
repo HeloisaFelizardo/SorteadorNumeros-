@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SorteadorNumeros",
+    "slug": "SorteadorNumeros",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SorteadorNumeros"
+}
