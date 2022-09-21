@@ -1,11 +1,12 @@
 {
+  "name": "variaveisEstado",
+  "displayName": "variaveisEstado",
   "expo": {
-    "name": "SorteadorNumeros",
-    "slug": "SorteadorNumeros",
+    "name": "variaveisEstado",
+    "slug": "variaveisEstado",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
-  },
-  "name": "SorteadorNumeros"
+  }
 }
